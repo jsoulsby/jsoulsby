@@ -1,5 +1,6 @@
 ### Hi there 👋
-Full stack C#, .Net Core 5.0, React.
+Full stack engineer / .NET Developer
+.Net 6.0, React, Azure
 
 <!--
 **jsoulsby/jsoulsby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
